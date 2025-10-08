@@ -1,0 +1,5 @@
+1 tinh nang moi nhat ma em thich la restore va rm file
+2. Hiển thị tiến độ học tập theo ngày.
+3. Lưu dữ liệu cục bộ và đồng bộ với GitHub.
+4. Giao diện dòng lệnh thân thiện, dễ sử dụng.
+5. Mở rộng thêm tính năng thống kê giờ học trong tương lai.
