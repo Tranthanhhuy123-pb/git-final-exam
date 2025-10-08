@@ -6,4 +6,8 @@ tap trung nhanh
 choi game 
 code vui vui
 
+hoc them code react 
+hoc them thiet ke 
+hoc them su ly load du lieu
+hoc them mo hinh csdl
 
