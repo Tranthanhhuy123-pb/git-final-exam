@@ -20,4 +20,6 @@
 - **Thứ Ba (14/10):** Ôn tập toàn bộ và nộp bài hoàn chỉnh.  
 
 ✍️ **Ghi chú:** Mỗi ngày dành ít nhất 2 giờ để học và thực hành, ghi lại tiến độ vào cuối ngày.
-
+heihe
+hihi
+huhu
